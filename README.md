@@ -17,8 +17,10 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935078383379968050/link-32.png" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935078966425960458/discord-32.png" />][discord]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935076077347414016/twitter-32.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935078085097840660/pst.png" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935085326068744262/twitch-tv-32.png" />][twitch]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://icon-library.com/images/youtube-icon-white-transparent/youtube-icon-white-transparent-16.jpg" />][youtube]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935085326068744262/twitch-tv-32.png" />][twitch]
 
 <br />
 
@@ -38,4 +40,5 @@
 [twitter]: https://twitter.com/itzmachiko
 [discord]: https://discord.com/users/698054542373421117
 [instagram]: https://www.instagram.com/itzpongz/
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitch]: https://www.twitch.tv/itz_pongz
+[youtube]: https://www.youtube.com/channel/UCj7HKlBxWg-HueW8R2Ghokw
