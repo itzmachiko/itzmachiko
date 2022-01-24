@@ -20,7 +20,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935078085097840660/pst.png" />][instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935085326068744262/twitch-tv-32.png" />][twitch]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://icon-library.com/images/youtube-icon-white-transparent/youtube-icon-white-transparent-16.jpg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-500.png" />][kofi]
+[<img align="left" alt="codeSTACKr | LinkedIn" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-500.png" />][kofi]
 
 <br />
 
