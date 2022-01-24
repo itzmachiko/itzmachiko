@@ -1,4 +1,4 @@
-[![website](https://cdn.discordapp.com/attachments/933299460530929704/935071038037971014/c5f8270957c465275d6b39808745ce6d.jpg)][1]
+![website](https://cdn.discordapp.com/attachments/933299460530929704/935071038037971014/c5f8270957c465275d6b39808745ce6d.jpg)
 ### Hi, I'm [Pongz][website] 👋 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
