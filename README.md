@@ -1,8 +1,7 @@
 [<img src="https://cdn.discordapp.com/attachments/933299460530929704/935071038037971014/c5f8270957c465275d6b39808745ce6d.jpg" />][website]
 ### Hi, I'm [Pongz][website] 👋 
 
-[![Website]<img align="left" alt="a" width="150px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-500.png" />](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website]<img align="left" alt="a" width="150px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-500.png" />](https://ko-fi.com/P5P57PJ2I)
 
 ## I'm a Student, Gamer, Procrastinator
 
