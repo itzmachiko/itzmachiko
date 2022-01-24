@@ -6,7 +6,10 @@
 
 ## I'm a Student, Gamer, Procrastinator
 
-- Eh
+- Name: Pongz
+- Pronouns: he/him
+- Interests: I like games, programming, dogs and Vrchat mirrors
+- Fact: 2022 Ends in <t:1672506000:R>
 
 
 ### 📬 Socials:
