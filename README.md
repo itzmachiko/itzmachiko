@@ -9,7 +9,7 @@
 - Eh
 
 
-### Connect with me:
+### 📬 Socials:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935078383379968050/link-32.png" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935078966425960458/discord-32.png" />][discord]
