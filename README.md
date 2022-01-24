@@ -1,7 +1,7 @@
 [<img src="https://cdn.discordapp.com/attachments/933299460530929704/935071038037971014/c5f8270957c465275d6b39808745ce6d.jpg" />][website]
 ### Hi, I'm [Pongz][website] 👋 
 
-[![Website](https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-500.png)](https://codestackr.com)
+[![Website](<img align="left" alt="a" width="150px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-500.png" />)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Student, Gamer, Procrastinator
@@ -14,13 +14,13 @@
 
 ### 📬 Socials:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935078383379968050/link-32.png" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935078966425960458/discord-32.png" />][discord]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935076077347414016/twitter-32.png" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935078085097840660/pst.png" />][instagram]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935085326068744262/twitch-tv-32.png" />][twitch]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://icon-library.com/images/youtube-icon-white-transparent/youtube-icon-white-transparent-16.jpg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="150px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-500.png" />][kofi]
+[<img align="left" alt="a" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935078383379968050/link-32.png" />][website]
+[<img align="left" alt="a" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935078966425960458/discord-32.png" />][discord]
+[<img align="left" alt="a" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935076077347414016/twitter-32.png" />][twitter]
+[<img align="left" alt="a" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935078085097840660/pst.png" />][instagram]
+[<img align="left" alt="a" width="22px" src="https://cdn.discordapp.com/attachments/933299460530929704/935085326068744262/twitch-tv-32.png" />][twitch]
+[<img align="left" alt="a" width="22px" src="https://icon-library.com/images/youtube-icon-white-transparent/youtube-icon-white-transparent-16.jpg" />][youtube]
+[<img align="left" alt="a" width="150px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-500.png" />][kofi]
 
 <br />
 
