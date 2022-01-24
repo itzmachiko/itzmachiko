@@ -35,8 +35,7 @@
 <br />
 
 [website]: https://pongz.ga
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/itzmachiko
 [discord]: https://discord.com/users/698054542373421117
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/itzpongz/
 [linkedin]: https://linkedin.com/in/codeSTACKr
