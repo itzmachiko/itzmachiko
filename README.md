@@ -35,7 +35,10 @@
 <img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 
 <br />
-<br />
+
+
+### ⚡ Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pongz42&theme=dark&show_icons=true)
 
 [website]: https://0bf3-171-99-159-178.ap.ngrok.io
 [twitter]: https://twitter.com/itzmachiko
