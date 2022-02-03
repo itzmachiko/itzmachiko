@@ -38,7 +38,7 @@
 
 
 ### ⚡ Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pongz42&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzmachiko&theme=dark&show_icons=true)
 
 [website]: https://itzmachiko.tk
 [twitter]: https://twitter.com/itzmachiko
