@@ -1,4 +1,4 @@
-[<img src="https://cdn.discordapp.com/attachments/933299460530929704/935071038037971014/c5f8270957c465275d6b39808745ce6d.jpg" />][website]
+[<img src="https://cdn.discordapp.com/attachments/933299460530929704/938859044972675112/1600x534.png" />][website]
 ### Hi, I'm [Pongz][website] 👋 
 
 [<img align="left" alt="a" width="150px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-500.png" />](https://ko-fi.com/P5P57PJ2I)
