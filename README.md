@@ -40,7 +40,7 @@
 ### ⚡ Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pongz42&theme=dark&show_icons=true)
 
-[website]: https://itzmachiko.tk/Git
+[website]: https://itzmachiko.tk
 [twitter]: https://twitter.com/itzmachiko
 [discord]: https://discord.com/users/698054542373421117
 [instagram]: https://www.instagram.com/itzpongz/
