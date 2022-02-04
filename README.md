@@ -43,7 +43,7 @@
 [website]: https://itzmachiko.tk
 [twitter]: https://twitter.com/itzmachiko
 [discord]: https://discord.com/users/698054542373421117
-[instagram]: https://www.instagram.com/itzpongz/
-[twitch]: https://www.twitch.tv/itz_pongz
+[instagram]: https://www.instagram.com/itz.machiko/
+[twitch]: https://www.twitch.tv/itzmachiko
 [youtube]: https://www.youtube.com/channel/UCj7HKlBxWg-HueW8R2Ghokw
 [kofi]: https://ko-fi.com/P5P57PJ2I
