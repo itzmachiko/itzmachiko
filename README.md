@@ -1,5 +1,5 @@
 [<img src="https://cdn.discordapp.com/attachments/933299460530929704/938859044972675112/1600x534.png" />][website]
-### Hi, I'm [Pongz][website] 👋 
+### Hi, I'm [Machiko][website] 👋 
 
 [<img align="left" alt="a" width="150px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-500.png" />](https://ko-fi.com/P5P57PJ2I)
 
@@ -7,10 +7,10 @@
 
 ## I'm a Student, Gamer, Procrastinator
 
-- Name: Pongz
+- Name: Machiko
+- I'm a: Minor
 - Pronouns: he/him
-- Interests: I like games, programming, dogs and Vrchat mirrors
-- Fact: 2022 Ends in <t:1672506000:R>
+- Interests: I like games, programming, cats and Vrchat mirrors
 
 
 ### 📬 Socials:
