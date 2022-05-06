@@ -40,7 +40,7 @@
 ### ⚡ Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzmachiko&theme=dark&show_icons=true)
 
-[website]: https://itzmachiko.tk
+[website]: https://itzmachiko.tk/aindex.php?github
 [twitter]: https://twitter.com/itzmachiko
 [discord]: https://discord.com/users/698054542373421117
 [instagram]: https://www.instagram.com/itz.machiko/
