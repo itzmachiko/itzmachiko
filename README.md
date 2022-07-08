@@ -1,7 +1,7 @@
 [<img src="https://itzmachiko.tk/img/github/1600x534.png" />][website]
 ### Hi, I'm [Machiko][website] 👋 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=klvsw5iho7v4kb9ur6f8tmilc&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=klvsw5iho7v4kb9ur6f8tmilc&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=dd6387)](https://github.com/kittinan/spotify-github-profile)
 <br />
 ## I'm a Student, Gamer, Procrastinator
 
