@@ -1,10 +1,8 @@
 [<img src="https://itzmachiko.tk/img/github/1600x534.png" />][website]
 ### Hi, I'm [Machiko][website] 👋 
 
-[<img align="left" alt="a" width="150px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-500.png" />](https://ko-fi.com/P5P57PJ2I)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=klvsw5iho7v4kb9ur6f8tmilc&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
 <br />
-
 ## I'm a Student, Gamer, Procrastinator
 
 - Name: Machiko
@@ -21,7 +19,9 @@
 [<img align="left" alt="a" width="22px" src="https://itzmachiko.tk/img/github/instagram-32.png" />][instagram]
 [<img align="left" alt="a" width="22px" src="https://itzmachiko.tk/img/github/twitch-tv-32.png" />][twitch]
 [<img align="left" alt="a" width="22px" src="https://itzmachiko.tk/img/github/youtube-32.png" />][youtube]
+<br />
 
+[<img align="left" alt="a" width="150px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-500.png" />](https://ko-fi.com/P5P57PJ2I)
 <br />
 
 ### Languages and Tools:
