@@ -1,4 +1,4 @@
-[<img src="https://itzmachiko.tk/img/github/1600x534.png" />][website]
+[<img alt="Banner (If you see this the image server is down)" src="https://itzmachiko.tk/img/github/1600x534.png" />][website]
 ### Hi, I'm [Machiko][website] 👋 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=klvsw5iho7v4kb9ur6f8tmilc&cover_image=false&theme=default&bar_color_cover=true)](https://open.spotify.com/user/klvsw5iho7v4kb9ur6f8tmilc?si=ba5b5f23df0f46ea)
@@ -13,15 +13,15 @@
 
 ### 📬 Socials:
 
-[<img align="left" alt="a" width="22px" src="https://itzmachiko.tk/img/github/link-32.png" />][website]
-[<img align="left" alt="a" width="22px" src="https://itzmachiko.tk/img/github/discord-32.png" />][discord]
-[<img align="left" alt="a" width="22px" src="https://itzmachiko.tk/img/github/twitter-32.png" />][twitter]
-[<img align="left" alt="a" width="22px" src="https://itzmachiko.tk/img/github/instagram-32.png" />][instagram]
-[<img align="left" alt="a" width="22px" src="https://itzmachiko.tk/img/github/twitch-tv-32.png" />][twitch]
-[<img align="left" alt="a" width="22px" src="https://itzmachiko.tk/img/github/youtube-32.png" />][youtube]
+[<img align="left" alt="website" width="22px" src="https://itzmachiko.tk/img/github/link-32.png" />][website]
+[<img align="left" alt="discord" width="22px" src="https://itzmachiko.tk/img/github/discord-32.png" />][discord]
+[<img align="left" alt="witter" width="22px" src="https://itzmachiko.tk/img/github/twitter-32.png" />][twitter]
+[<img align="left" alt="instgranm" width="22px" src="https://itzmachiko.tk/img/github/instagram-32.png" />][instagram]
+[<img align="left" alt="twitch" width="22px" src="https://itzmachiko.tk/img/github/twitch-tv-32.png" />][twitch]
+[<img align="left" alt="youtube" width="22px" src="https://itzmachiko.tk/img/github/youtube-32.png" />][youtube]
 <br />
 
-[<img align="left" alt="a" width="150px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-500.png" />](https://ko-fi.com/P5P57PJ2I)
+[<img align="left" alt="kofi" width="150px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-500.png" />](https://ko-fi.com/P5P57PJ2I)
 <br />
 
 ### 🛠 Languages and Tools:
@@ -32,7 +32,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://itzmachiko.tk/img/github/js.png" />
 <img align="left" alt="React" width="26px" src="https://itzmachiko.tk/img/github/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://itzmachiko.tk/img/github/nodejs.png" />
-<img align="left" alt="Node.js" width="26px" src="https://itzmachiko.tk/img/github/py.png" />
+<img align="left" alt="Python" width="26px" src="https://itzmachiko.tk/img/github/py.png" />
 
 <br />
 
